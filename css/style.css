@@ -475,35 +475,55 @@ a:focus {
     align-items: flex-end;
     position: relative;
     width: 100%;
-    margin: -45px 0 45px 0;
+    margin: -30px 45px 0px px;
     
 }
 
 .about .col-lg-6 {
     padding: 0;
+    
 }
 
 .about .section-header {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    
+   
 }
 
 .about .about-img {
-    align-items: flex-end;
+    align-items: left;
     position: relative;
-    height: 100%;
+    height: 40%;
     
 }
 
 .about .about-img img {
+    margin-left:-10%;
     position: relative;
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     object-fit: cover;
     
 }
 
+
+
+.about h2{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: #797979;
+}
+.section-header {
+    padding-top: 50px;
+}
+
+
 .about .about-content {
-    padding: 0 60px;
+    padding-right:-30%;
+    margin-left: -250px;
+    margin-right:50%;
+
+
 }
 
 .about .about-text p {
@@ -511,7 +531,7 @@ a:focus {
 }
 
 .about .skills {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .about .skill-name {
