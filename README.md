@@ -33,4 +33,5 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-  (https://rajeswari2422.github.io/Portfolio/)
+   https://rajeswari2422.github.io/Portfolio/
+  
