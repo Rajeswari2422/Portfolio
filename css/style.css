@@ -332,11 +332,11 @@ a:focus {
 
 @media (max-width: 991.98px) {
     .hero {
-        padding-top: 60px;
+        padding-top: 30px;
     }
     
     .hero .hero-content {
-        padding: 0 15px;
+        padding: 0 5px;
     }
     
     .hero .hero-text p {
@@ -344,7 +344,7 @@ a:focus {
     }
     
     .hero .hero-text h1 {
-        font-size: 45px;
+        font-size: 5px;
     }
     
     .hero .hero-text h2 {
@@ -372,7 +372,7 @@ a:focus {
     }
     
     .hero .hero-text p {
-        font-size: 18px;
+        font-size: 14px;
     }
     
     .hero .hero-text h1 {
@@ -569,6 +569,23 @@ a:focus {
 @media (max-width: 991.98px) {
     .about .about-content {
         padding: 45px 15px 0 15px;
+    }
+    .about .about-img img {
+        margin-left:20%;
+        position: relative;
+        width: 50%;
+        height: 50%;
+        object-fit: cover;
+    }
+    .about .about-content {
+        padding-left:80%;
+        margin-left: -300px;
+        margin-right:50%;
+        
+    }
+    .about .about-text p {
+        font-size: 14px;
+        align-items: center;
     }
 }
 
